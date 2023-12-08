@@ -1,0 +1,22 @@
+.annotation {
+    background-color: lightyellow;
+    border-bottom: 2px solid yellow;
+    cursor: pointer;
+  }
+  
+  .annotation.selected {
+    background-color: lightblue;
+  }
+  
+  .annotation-comment {
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #ddd;
+    background-color: grey;
+    cursor: pointer;
+  }
+  
+  .annotation-comment.selected {
+    background-color: lightgreen;
+  }
+  
